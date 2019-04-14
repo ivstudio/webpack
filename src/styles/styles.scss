@@ -1,0 +1,17 @@
+$green: green;
+$red: red;
+
+p {
+  color: $green;
+}
+
+body {
+  background-color: $red;
+}
+
+.red {
+  background-color: $red;
+  height: 50px;
+  width: 50px;
+  display: block;
+}
