@@ -1,7 +1,7 @@
 # Webpack configuration guide
 
 
-* [Link to tutorial](http://ignaciovillamar.com/webpack/)
+* [Read Article](https://ivstudio.com/configure-webpack/)
 
 
 ## Available scripts 
